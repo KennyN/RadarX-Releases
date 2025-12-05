@@ -23,5 +23,5 @@ Visit the [Releases](https://github.com/KennyN/RadarX-Releases/releases) page to
 For support, visit our [Discord Server](https://discord.gg/pokeradar)
 
 ---
-
-
+https://pokeradar.com
+© 2025 PokeRadar LLC. All rights reserved.
